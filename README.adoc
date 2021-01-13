@@ -1,0 +1,4 @@
+= SIIM-ISIC melanoma classification competition
+[.normal]
+
+For this project, we implement a convolutional neural network (CNN) using transfer learning from EfficientNet in order to classify skin lesions as either melanomas or benign moles. The ROC AUC achieved using this technique was 0.8231.
